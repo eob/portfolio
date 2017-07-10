@@ -5,4 +5,4 @@ title: 'About Me'
 ---
 I’m a designer in the SF Bay area looking for interesting work!
 
-![](./images/5ea6e868-1dc2-4521-99a2-c371e930dd30.jpg)
+![](./images/e6e3a062-7376-4136-ad8e-2db487cd6513.jpg)
